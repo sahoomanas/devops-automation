@@ -14,6 +14,9 @@ public class DevopsIntegrationApplication {
 
 		return "welcome to javatechie";
 
+
+		
+
 	}
 
 	public static void main(String[] args) {
