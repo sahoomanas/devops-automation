@@ -13,6 +13,7 @@ public class DevopsIntegrationApplication {
 	public String message(){
 
 		return "welcome to javatechie";
+
 	}
 
 	public static void main(String[] args) {
